@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:todo_app/home.dart';
-import 'package:todo_app/provider/tash_provider.dart';
+import 'package:todo_app/provider/task_provider.dart';
 
 
 void main() {
